@@ -14,7 +14,7 @@ Basically this app is a food ordering app which includes both client & server si
 and an SQL server that keeps all the app data.
 
 
-## 🛠 Demonstration
+## Demonstration
 
 https://user-images.githubusercontent.com/73841983/177920829-a1d7d24a-b6da-424f-be26-8ec18161f485.mp4
 
